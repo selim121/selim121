@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/selimhossain-sh1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="selim121" height="30" width="40" /></a>
-[<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://www.facebook.com/selimhossain.sh1/" />][facebook]
-[<img align="left" alt="codeSTACKr | twitter" width="22px" src="https://twitter.com/selim_hossain1" />][twitter]
+<a href="https://www.facebook.com/selimhossain.sh1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@selim121" height="30" width="40" /></a>
+ <a href="https://twitter.com/selim_hossain1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@selim121" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
