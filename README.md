@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Selim</h1>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=selim121" alt="selim121" /> </p>
-
 - 🔭 I’m currently working on **Flutter Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/selim121](https://github.com/selim121)
