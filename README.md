@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Flutter, Dart**
 
-- ⚡ Fun fact **I like to think something**.
-
 ![Selim's github stats](https://github-readme-stats.vercel.app/api?username=selim121&show_icons=true&theme=react)
 
 ## 🔗 Links
