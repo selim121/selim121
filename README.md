@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/selim121](https://github.com/selim121)
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter**
 
 ![Selim's github stats](https://github-readme-stats.vercel.app/api?username=selim121&show_icons=true&theme=react)
 
