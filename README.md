@@ -6,7 +6,6 @@
 
 - 💬 Ask me about **Flutter**
 
-![Selim's github stats](https://github-readme-stats.vercel.app/api?username=selim121&show_icons=true&theme=react)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selimhossain-sh1/)
