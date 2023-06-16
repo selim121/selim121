@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🔭 I’m currently working on *****.
+- 🔭 I’m currently working on Web Development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/selim121](https://github.com/selim121)
 
-- 💬 Ask me about ****
+- 💬 Ask me about JavaScript
 
 
 ## 🔗 Links
